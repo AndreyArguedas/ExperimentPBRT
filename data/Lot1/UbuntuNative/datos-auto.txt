@@ -1,0 +1,17 @@
+Image     Accelerator      Sampler     Time        OS      Lot     Machine
+bidir-bvh-halton.pbrt  bvh  halton  822.765409507  UbuntuNative  1  Machine 2
+bidir-bvh-sobol.pbrt  bvh  sobol  892.735315446  UbuntuNative  1  Machine 2
+teapot-metal-kdtree-halton.pbrt  kdtree  halton  373.640014555  UbuntuNative  1  Machine 2
+buddha-fractal-bvh-halton.pbrt  bvh  halton  166.721883000  UbuntuNative  1  Machine 2
+spotfog-kdtree-halton.pbrt  kdtree  halton  308.577705228  UbuntuNative  1  Machine 2
+spotfog-bvh-halton.pbrt  bvh  halton  230.599362169  UbuntuNative  1  Machine 2
+teapot-metal-bvh-halton.pbrt  bvh  halton  372.678927242  UbuntuNative  1  Machine 2
+bidir-kdtree-sobol.pbrt  kdtree  sobol  1207.815820429  UbuntuNative  1  Machine 2
+teapot-metal-kdtree-sobol.pbrt  kdtree  sobol  332.606696653  UbuntuNative  1  Machine 2
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  276.557339700  UbuntuNative  1  Machine 2
+buddha-fractal-bvh-sobol.pbrt  bvh  sobol  168.702092348  UbuntuNative  1  Machine 2
+buddha-fractal-kdtree-sobol.pbrt  kdtree  sobol  206.895291190  UbuntuNative  1  Machine 2
+spotfog-bvh-sobol.pbrt  bvh  sobol  222.576179896  UbuntuNative  1  Machine 2
+bidir-kdtree-halton.pbrt  kdtree  halton  1122.759976774  UbuntuNative  1  Machine 2
+teapot-metal-bvh-sobol.pbrt  bvh  sobol  333.565058714  UbuntuNative  1  Machine 2
+buddha-fractal-kdtree-halton.pbrt  kdtree  halton  205.897662182  UbuntuNative  1  Machine 2

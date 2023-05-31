@@ -1,0 +1,16 @@
+10minAvgScenes/teapot-metal/teapot-metal-bvh-sobol.pbrt
+30minAvgScenes/veach-bidir/bidir-bvh-sobol.pbrt
+5minAvgScenes/simple/spotfog-bvh-halton.pbrt
+10minAvgScenes/teapot-metal/teapot-metal-kdtree-halton.pbrt
+30minAvgScenes/veach-bidir/bidir-kdtree-halton.pbrt
+5minAvgScenes/simple/spotfog-kdtree-halton.pbrt
+10minAvgScenes/buddha-fractal/buddha-fractal-bvh-halton.pbrt
+10minAvgScenes/teapot-metal/teapot-metal-bvh-halton.pbrt
+10minAvgScenes/buddha-fractal/buddha-fractal-kdtree-halton.pbrt
+10minAvgScenes/buddha-fractal/buddha-fractal-bvh-sobol.pbrt
+5minAvgScenes/simple/spotfog-bvh-sobol.pbrt
+10minAvgScenes/teapot-metal/teapot-metal-kdtree-sobol.pbrt
+30minAvgScenes/veach-bidir/bidir-kdtree-sobol.pbrt
+30minAvgScenes/veach-bidir/bidir-bvh-halton.pbrt
+10minAvgScenes/buddha-fractal/buddha-fractal-kdtree-sobol.pbrt
+5minAvgScenes/simple/spotfog-kdtree-sobol.pbrt

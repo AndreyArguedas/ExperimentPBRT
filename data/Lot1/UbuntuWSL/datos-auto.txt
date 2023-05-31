@@ -1,0 +1,98 @@
+Image     Accelerator      Sampler     Time        OS      Lot     Machine
+bidir-kdtree-sobol.pbrt  kdtree  sobol  2462.775854303  LinuxUbuntuNative  1  MaquinaAndrey
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  607.618393502  LinuxUbuntuNative  1  MaquinaAndrey
+buddha-fractal-kdtree-halton.pbrt  kdtree  halton  533.004301022  LinuxUbuntuNative  1  MaquinaAndrey
+teapot-metal-kdtree-halton.pbrt  kdtree  halton  799.327845722  LinuxUbuntuNative  1  MaquinaAndrey
+spotfog-bvh-sobol.pbrt  bvh  sobol  444.573001638  LinuxUbuntuNative  1  MaquinaAndrey
+teapot-metal-bvh-sobol.pbrt  bvh  sobol  729.243433799  LinuxUbuntuNative  1  MaquinaAndrey
+bidir-bvh-halton.pbrt  bvh  halton  1797.709468039  LinuxUbuntuNative  1  MaquinaAndrey
+spotfog-kdtree-halton.pbrt  kdtree  halton  617.663274028  LinuxUbuntuNative  1  MaquinaAndrey
+teapot-metal-kdtree-sobol.pbrt  kdtree  sobol  729.263209611  LinuxUbuntuNative  1  MaquinaAndrey
+teapot-metal-bvh-halton.pbrt  bvh  halton  804.290793137  LinuxUbuntuNative  1  MaquinaAndrey
+bidir-bvh-sobol.pbrt  bvh  sobol  1772.646729528  LinuxUbuntuNative  1  MaquinaAndrey
+buddha-fractal-bvh-halton.pbrt  bvh  halton  365.768826240  LinuxUbuntuNative  1  MaquinaAndrey
+buddha-fractal-kdtree-sobol.pbrt  kdtree  sobol  542.947723890  LinuxUbuntuNative  1  MaquinaAndrey
+spotfog-bvh-halton.pbrt  bvh  halton  454.603595884  LinuxUbuntuNative  1  MaquinaAndrey
+bidir-kdtree-halton.pbrt  kdtree  halton  2472.772001209  LinuxUbuntuNative  1  MaquinaAndrey
+buddha-fractal-bvh-sobol.pbrt  fractal-bvh  sobol  372.737595079  LinuxUbuntuNative  1  MaquinaAndrey
+bidir-bvh-halton.pbrt  bvh  halton  822.765409507  UbuntuNative  1  MachineChen
+bidir-bvh-sobol.pbrt  bvh  sobol  892.735315446  UbuntuNative  1  MachineChen
+teapot-metal-kdtree-halton.pbrt  kdtree  halton  373.640014555  UbuntuNative  1  MachineChen
+buddha-fractal-bvh-halton.pbrt  bvh  halton  166.721883000  UbuntuNative  1  MachineChen
+spotfog-kdtree-halton.pbrt  kdtree  halton  308.577705228  UbuntuNative  1  MachineChen
+spotfog-bvh-halton.pbrt  bvh  halton  230.599362169  UbuntuNative  1  MachineChen
+teapot-metal-bvh-halton.pbrt  bvh  halton  372.678927242  UbuntuNative  1  MachineChen
+bidir-kdtree-sobol.pbrt  kdtree  sobol  1207.815820429  UbuntuNative  1  MachineChen
+teapot-metal-kdtree-sobol.pbrt  kdtree  sobol  332.606696653  UbuntuNative  1  MachineChen
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  276.557339700  UbuntuNative  1  MachineChen
+buddha-fractal-bvh-sobol.pbrt  bvh  sobol  168.702092348  UbuntuNative  1  MachineChen
+buddha-fractal-kdtree-sobol.pbrt  kdtree  sobol  206.895291190  UbuntuNative  1  MachineChen
+spotfog-bvh-sobol.pbrt  bvh  sobol  222.576179896  UbuntuNative  1  MachineChen
+bidir-kdtree-halton.pbrt  kdtree  halton  1122.759976774  UbuntuNative  1  MachineChen
+teapot-metal-bvh-sobol.pbrt  bvh  sobol  333.565058714  UbuntuNative  1  MachineChen
+buddha-fractal-kdtree-halton.pbrt  kdtree  halton  205.897662182  UbuntuNative  1  MachineChen
+bidir-kdtree-halton.pbrt  kdtree  halton  1714.4493717  Windows  1  MachineChen
+buddha-fractal-bvh-sobol.pbrt  bvh  sobol  206.0164343  Windows  1  MachineChen
+buddha-fractal-kdtree-sobol.pbrt  kdtree  sobol  304.6728697  Windows  1  MachineChen
+bidir-bvh-sobol.pbrt  bvh  sobol  1127.8237762  Windows  1  MachineChen
+bidir-kdtree-sobol.pbrt  kdtree  sobol  1679.7009298  Windows  1  MachineChen
+bidir-bvh-halton.pbrt  bvh  halton  1118.7468988  Windows  1  MachineChen
+teapot-metal-kdtree-halton.pbrt  kdtree  halton  507.640665  Windows  1  MachineChen
+teapot-metal-bvh-sobol.pbrt  bvh  sobol  431.4399176  Windows  1  MachineChen
+buddha-fractal-kdtree-halton.pbrt  kdtree  halton  285.4505975  Windows  1  MachineChen
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  427.0624447  Windows  1  MachineChen
+buddha-fractal-bvh-halton.pbrt  bvh  halton  196.6945687  Windows  1  MachineChen
+spotfog-bvh-sobol.pbrt  bvh  sobol  310.0710686  Windows  1  MachineChen
+teapot-metal-bvh-halton.pbrt  bvh  halton  502.333253  Windows  1  MachineChen
+spotfog-bvh-halton.pbrt  bvh  halton  322.4852696  Windows  1  MachineChen
+spotfog-kdtree-halton.pbrt  kdtree  halton  436.101965  Windows  1  MachineChen
+teapot-metal-kdtree-sobol.pbrt  kdtree  sobol  433.1038558  Windows  1  MachineChen
+buddha-fractal-bvh-sobol.pbrt  bvh  sobol  372.737595079  LinuxUbuntuNative  1  MaquinaAndrey
+bidir-bvh-halton.pbrt  bvh  halton 2070.424278  Windows10Native  1  MaquinaAndrey
+teapot-metal-bvh-sobol.pbrt  bvh  sobol  719.6592325  Windows10Native  1  MaquinaAndrey
+spotfog-kdtree-halton.pbrt  kdtree  halton  813.1144425  Windows10Native  1  MaquinaAndrey
+bidir-bvh-sobol.pbrt  bvh  sobol  2075.2472076  Windows10Native  1  MaquinaAndrey
+teapot-metal-bvh-halton.pbrt  bvh  halton  709.3933473  Windows10Native  1  MaquinaAndrey
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  828.0476751  Windows10Native  1  MaquinaAndrey
+bidir-kdtree-sobol.pbrt  kdtree  sobol  3130.1516298  Windows10Native  1  MaquinaAndrey
+bidir-kdtree-halton.pbrt  kdtree  halton  3236.7711326  Windows10Native  1  MaquinaAndrey
+teapot-metal-kdtree-halton.pbrt  kdtree  halton  705.4364831  Windows10Native  1  MaquinaAndrey
+buddha-fractal-bvh-sobol.pbrt  bvh  sobol  408.3313368  Windows10Native  1  MaquinaAndrey
+spotfog-bvh-halton.pbrt  bvh  halton  593.263764  Windows10Native  1  MaquinaAndrey
+buddha-fractal-kdtree-halton.pbrt  kdtree  halton  613.7876659  Windows10Native  1  MaquinaAndrey
+buddha-fractal-bvh-halton.pbrt  bvh  halton  403.3083398  Windows10Native  1  MaquinaAndrey
+buddha-fractal-kdtree-sobol.pbrt  kdtree  sobol  618.292931  Windows10Native  1  MaquinaAndrey
+teapot-metal-kdtree-sobol.pbrt  kdtree  sobol  715.1410569  Windows10Native  1  MaquinaAndrey
+spotfog-bvh-sobol.pbrt  bvh  sobol  598.4765472  Windows10Native  1  MaquinaAndrey
+bidir-bvh-halton.pbrt  bvh  halton  822.765409507  UbuntuNative  1  Machine 2
+bidir-bvh-sobol.pbrt  bvh  sobol  892.735315446  UbuntuNative  1  Machine 2
+teapot-metal-kdtree-halton.pbrt  kdtree  halton  373.640014555  UbuntuNative  1  Machine 2
+buddha-fractal-bvh-halton.pbrt  bvh  halton  166.721883000  UbuntuNative  1  Machine 2
+spotfog-kdtree-halton.pbrt  kdtree  halton  308.577705228  UbuntuNative  1  Machine 2
+spotfog-bvh-halton.pbrt  bvh  halton  230.599362169  UbuntuNative  1  Machine 2
+teapot-metal-bvh-halton.pbrt  bvh  halton  372.678927242  UbuntuNative  1  Machine 2
+bidir-kdtree-sobol.pbrt  kdtree  sobol  1207.815820429  UbuntuNative  1  Machine 2
+teapot-metal-kdtree-sobol.pbrt  kdtree  sobol  332.606696653  UbuntuNative  1  Machine 2
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  276.557339700  UbuntuNative  1  Machine 2
+buddha-fractal-bvh-sobol.pbrt  bvh  sobol  168.702092348  UbuntuNative  1  Machine 2
+buddha-fractal-kdtree-sobol.pbrt  kdtree  sobol  206.895291190  UbuntuNative  1  Machine 2
+spotfog-bvh-sobol.pbrt  bvh  sobol  222.576179896  UbuntuNative  1  Machine 2
+bidir-kdtree-halton.pbrt  kdtree  halton  1122.759976774  UbuntuNative  1  Machine 2
+teapot-metal-bvh-sobol.pbrt  bvh  sobol  333.565058714  UbuntuNative  1  Machine 2
+buddha-fractal-kdtree-halton.pbrt  kdtree  halton  205.897662182  UbuntuNative  1  Machine 2
+bidir-bvh-sobol.pbrt  bvh  sobol  757.635947910  WSL  1  MachineChen
+buddha-fractal-bvh-halton.pbrt  fractal-bvh  halton  147.729004093  WSL  1  MachineChen
+teapot-metal-kdtree-sobol.pbrt  metal-kdtree  sobol  286.420379615  WSL  1  MachineChen
+teapot-metal-kdtree-halton.pbrt  metal-kdtree  halton  308.373704734  WSL  1  MachineChen
+bidir-kdtree-halton.pbrt  kdtree  halton  1022.634973307  WSL  1  MachineChen
+buddha-fractal-bvh-sobol.pbrt  fractal-bvh  sobol  144.668229841  WSL  1  MachineChen
+bidir-kdtree-sobol.pbrt  kdtree  sobol  1017.637120424  WSL  1  MachineChen
+spotfog-kdtree-sobol.pbrt  kdtree  sobol  253.546221013  WSL  1  MachineChen
+teapot-metal-bvh-sobol.pbrt  metal-bvh  sobol  283.409460532  WSL  1  MachineChen
+spotfog-bvh-sobol.pbrt  bvh  sobol  190.546598049  WSL  1  MachineChen
+teapot-metal-bvh-halton.pbrt  metal-bvh  halton  318.623594842  WSL  1  MachineChen
+spotfog-bvh-halton.pbrt  bvh  halton  193.558906433  WSL  1  MachineChen
+buddha-fractal-kdtree-sobol.pbrt  fractal-kdtree  sobol  194.844818045  WSL  1  MachineChen
+bidir-bvh-halton.pbrt  bvh  halton  747.600266408  WSL  1  MachineChen
+buddha-fractal-kdtree-halton.pbrt  fractal-kdtree  halton  192.874409953  WSL  1  MachineChen
+spotfog-kdtree-halton.pbrt  kdtree  halton  263.563725875  WSL  1  MachineChen
